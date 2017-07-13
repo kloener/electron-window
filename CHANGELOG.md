@@ -1,3 +1,9 @@
+1.0.0 / 2017-07-13
+------------------
+- showUrl will honor the options.show parameter
+- Fixed search parameters in url
+- Fixed file urls with protocols
+
 0.8.1 / 2016-05-14
 ------------------
 - removed dep `object-assign`. See: [#14][#14]
